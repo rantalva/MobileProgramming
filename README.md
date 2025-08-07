@@ -1,1 +1,2 @@
 # Mobile programming course for Haaga-Helia. First commit. Third time is the charm.
+## deleted submodules
